@@ -14,7 +14,7 @@ The project is also available online at [django-multilingual-site.onrender.com](
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/your-username/mini-movie-search-project.git
+git clone git@github.com:enas-elm/React-Movies-API.git
 cd mini-movie-search-project
 ````
 
