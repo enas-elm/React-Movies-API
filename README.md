@@ -2,6 +2,8 @@
 
 This project is a React application that uses The Movie Database (TMDb) API to display a list of movies. Each movie can be clicked to open a detail modal.
 
+The project is also available online at [django-multilingual-site.onrender.com](https://react-movies-api-theta.vercel.app/)
+
 ## Features
 
 - Display a list of recent movies
